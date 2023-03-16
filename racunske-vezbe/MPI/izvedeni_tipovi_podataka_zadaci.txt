@@ -1,0 +1,8 @@
+zad1. Napisati program kojim se korišćenjem izvedenih tipova podataka vrši
+slanje kolone 0 procesa 0 u vrstu 0 procesa 1.
+
+
+zad2a. Napisati program kojim se elementi gornje trougaone matrice Anxn
+procesa 0, šalju u gornju trougaonu matricu Tnxn procesa 1.
+
+zad2b. Vrajicija zad2a: salje se donja A u gornju trougaonu T.
