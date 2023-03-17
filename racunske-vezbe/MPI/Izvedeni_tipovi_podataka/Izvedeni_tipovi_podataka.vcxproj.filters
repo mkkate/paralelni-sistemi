@@ -24,5 +24,11 @@
     <ClCompile Include="zad2b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="zad3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zad4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

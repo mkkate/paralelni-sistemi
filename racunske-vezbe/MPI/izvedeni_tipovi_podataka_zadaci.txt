@@ -6,3 +6,7 @@ zad2a. Napisati program kojim se elementi gornje trougaone matrice Anxn
 procesa 0, šalju u gornju trougaonu matricu Tnxn procesa 1.
 
 zad2b. Vrajicija zad2a: salje se donja A u gornju trougaonu T.
+
+
+zad3. Napisati MPI program koji čita celobrojne (integer) i vrednosti duple tačnosti 
+(double-precision) sa standardnog ulaza i saopštava to svim ostalim procesima.
