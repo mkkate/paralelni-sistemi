@@ -1,0 +1,18 @@
+resenja nisu testirana, vec samo uporedjena sa vec testiranim resenjima
+
+
+read_all i write_all su grupne operacije i kad god mozes koristi njih umesto obicnih read i write
+
+upis upotrebom pojedinacnih pokazivaca: seek, write_all
+
+citanje upotrebom funkcija sa eksplicitnim pomerajem: read_at_all
+
+obratiti paznju na efikasnost paralelizacije upisa: set_view, write_all
+
+ne moze da se predvidi koji proces cita koji deo: read_shared
+
+ne moze da se predvidi redosled upisa procesa: samo write_shared
+
+upis preklopiti sa analizom: set_view i write_all_begin, pa analiza, pa wite_all_end
+
+procesi upisuju redom od poslednjeg do prvog: (size-1-rank)*sizeof(int)

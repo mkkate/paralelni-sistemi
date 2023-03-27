@@ -24,5 +24,8 @@
     <ClCompile Include="jun_2022.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="oktobar_2021.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
